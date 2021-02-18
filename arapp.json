@@ -1,18 +1,5 @@
 {
-  "roles": [
-    {
-      "name": "Burn tokens",
-      "id": "BURN_ROLE",
-      "params": [
-        "User"
-      ]
-    },
-    {
-      "name": "Manager",
-      "id": "MANAGER_ROLE",
-      "params": []
-    }
-  ],
+  "roles": [],
   "environments": {
     "default": {
       "appName": "token-wrapper.aragonpm.eth",
